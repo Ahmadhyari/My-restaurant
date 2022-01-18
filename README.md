@@ -1,5 +1,5 @@
 # My-restaurant
 
-![My restaurant](/assets/mmmm.jpg)
+![My restaurant](/assets/nnnn.png)
 
 
